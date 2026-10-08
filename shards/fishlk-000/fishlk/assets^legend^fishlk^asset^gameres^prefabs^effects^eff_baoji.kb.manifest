@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1194433706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bb9cb4ad3d89514b0bd29b115ee5bae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e07c6e0615e63ae3c7d9413510c73dcd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5bb9cb4ad3d89514b0bd29b115ee5bae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Effects/eff_baoji.prefab
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4206877116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b0e0d850fa2366ab9d21d91df0cacb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36cb8f57d2dd7c2485a1e1953bb1a6e1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b0e0d850fa2366ab9d21d91df0cacb4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8690a2f491a001a4ebd061b41f7ae0f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Effects/E0_Fatmosphere.prefab
+Dependencies: []

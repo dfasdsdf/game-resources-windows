@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1948112510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ce2a6427ffd34c394e43d9e85c3ed75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd16968dc3c7d839902e0552af7891f0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ce2a6427ffd34c394e43d9e85c3ed75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36bd3711fb5798041a216e9eb60fc028, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e0f4c6a2d8b42a41b598fd773d3a933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Legend.Game.LKSpriteInfo
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Fish/fish39.prefab
+Dependencies: []

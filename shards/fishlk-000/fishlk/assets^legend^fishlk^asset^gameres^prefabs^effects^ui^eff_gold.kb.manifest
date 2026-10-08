@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 930887795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a211e1afcd1af01591d57b7d990b0ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7c37a8566651d61d7cde7d06aa6f399
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a211e1afcd1af01591d57b7d990b0ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: BMSymbol
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Effects/ui/eff_gold.prefab
+Dependencies: []

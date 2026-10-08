@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1894709457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e65dfdca00883e194ac020021369ed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6165f5c71d617b09261fbba27c2328c9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e65dfdca00883e194ac020021369ed1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36bd3711fb5798041a216e9eb60fc028, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Legend.Game.LKSpriteInfo
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Bullet/bullet_11.prefab
+Dependencies: []

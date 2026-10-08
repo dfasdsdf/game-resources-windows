@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3555721860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50530b5b8534b0ea960890de601e0b76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c7f7966f136c2a5b17781f38bbb97f8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50530b5b8534b0ea960890de601e0b76
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bd99dcf43f97d48bb6215c70f0cd40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7b49ea66314647e9aacc4ad67aec39a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/UI/bg_tabletemp.prefab
+Dependencies: []
