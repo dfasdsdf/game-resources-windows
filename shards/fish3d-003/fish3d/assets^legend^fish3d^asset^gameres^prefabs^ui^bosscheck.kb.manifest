@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 816221185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 952db7b0593ed5c822d013013fa20534
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50ad60ac3a5ddc2d1ffee0b554856010
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 952db7b0593ed5c822d013013fa20534
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d9f161c8c1f9d846a422c4f89239914, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/BossCheck.prefab
+Dependencies: []

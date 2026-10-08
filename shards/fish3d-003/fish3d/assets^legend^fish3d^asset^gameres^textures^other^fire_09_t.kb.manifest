@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2017197021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4173aa19c899287a434820b8504f2a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4173aa19c899287a434820b8504f2a72
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/Other/Fire_09_T.png
+Dependencies: []

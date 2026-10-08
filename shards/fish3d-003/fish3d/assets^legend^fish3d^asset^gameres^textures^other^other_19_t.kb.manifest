@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2678598537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9067a6adc1cb0de680474e743de928c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9067a6adc1cb0de680474e743de928c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/Other/Other_19_T.png
+Dependencies: []

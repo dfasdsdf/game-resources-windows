@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4132023942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f98260189012498d8fbe954c7f1289f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5890d9342c6e7b096f444659870f584
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5f98260189012498d8fbe954c7f1289f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8690a2f491a001a4ebd061b41f7ae0f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/UI_ZJP.prefab
+Dependencies: []

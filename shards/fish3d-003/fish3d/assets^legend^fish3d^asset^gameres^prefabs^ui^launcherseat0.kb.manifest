@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1663996807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 505f67c5871832d76b49b38e19491520
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6219c4fd5ef08eaec835901f3e3d387a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 505f67c5871832d76b49b38e19491520
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8316eedb415c7a488cc4c09aa923939, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9ff209fd93d10d4f9a00613e80dc827, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 783e0a7781d72cc46a2ba3bfb7a3edde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: Legend.Game.UsrinfoUIRef
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/LauncherSeat0.prefab
+Dependencies: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1903698548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d461748ce66f343181666198974dba0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d81af89b6db29ed6e0e50d5739dc5c3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d461748ce66f343181666198974dba0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7290545095e1d1a4db0b4cfd231625d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8690a2f491a001a4ebd061b41f7ae0f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/UI_NLP.prefab
+Dependencies: []

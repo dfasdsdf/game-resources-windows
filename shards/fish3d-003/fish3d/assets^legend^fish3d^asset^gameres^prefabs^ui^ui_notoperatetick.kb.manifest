@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2020686587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5021ebbddc772968fc515a3270e04262
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ab818ca020e7533f5ec245da40149e2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5021ebbddc772968fc515a3270e04262
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b24d1759a4871f744b08c659943cabdd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/UI_NotOperateTick.prefab
+Dependencies: []

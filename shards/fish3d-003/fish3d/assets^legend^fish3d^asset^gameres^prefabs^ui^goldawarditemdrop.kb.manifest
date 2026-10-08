@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 261765486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b404bae90866cc2c11d7e04b8a5f64c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9e5a891111408821e670e716f88b564
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b404bae90866cc2c11d7e04b8a5f64c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: BMSymbol
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/GoldAwardItemDrop.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.17/fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss1.kb

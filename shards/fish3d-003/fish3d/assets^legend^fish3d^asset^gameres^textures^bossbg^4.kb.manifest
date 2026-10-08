@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2131350129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da3d982b289edd4dd04bf32cf13f9595
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: da3d982b289edd4dd04bf32cf13f9595
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/BossBG/4.png
+Dependencies: []

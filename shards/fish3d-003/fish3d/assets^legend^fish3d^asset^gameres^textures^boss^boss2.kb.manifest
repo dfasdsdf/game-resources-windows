@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3724742281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8af6fa112835ae1f95c478dadac722e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8af6fa112835ae1f95c478dadac722e1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/Boss/boss2.png
+Dependencies: []
