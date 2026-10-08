@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2367386892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2e5d2dbc25809c322764d1d23d2eea2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2e5d2dbc25809c322764d1d23d2eea2
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Audios/6028.mp3
+Dependencies: []

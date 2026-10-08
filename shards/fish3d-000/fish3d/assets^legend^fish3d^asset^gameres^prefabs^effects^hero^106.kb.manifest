@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3135953450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cf5b9615e9260be83b95f98dabb6108
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82aa8caf343d23735a86b65199704271
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4cf5b9615e9260be83b95f98dabb6108
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Hero/106.prefab
+Dependencies: []

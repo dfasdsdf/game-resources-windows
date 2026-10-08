@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2344213338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b232f96fe1a04bf65316fcb866131c10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4149f29881ffa4c52231328c453108e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b232f96fe1a04bf65316fcb866131c10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/CheckEffck1.prefab
+Dependencies: []

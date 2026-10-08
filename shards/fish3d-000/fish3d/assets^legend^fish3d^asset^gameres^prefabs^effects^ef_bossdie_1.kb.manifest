@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1543984481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 825af554e4e53f5337892363e3e4dc9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 071595a6e7bae173fe8007760f1192e3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 825af554e4e53f5337892363e3e4dc9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Ef_bossdie_1.prefab
+Dependencies: []

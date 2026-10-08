@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1798748649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86efeaf156b7f596594c0d866388adf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bdad574b8eb7c421adcbafe72665b722
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 86efeaf156b7f596594c0d866388adf9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f54211b470055498c33aa623796db3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e2d3555599af954b9352a414d5c80b1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/BackgroundScene/2.prefab
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3215925040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 846b6a002d69191a1d4c85a657f0d13d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c062210d5d95ad5848a2b371ed78fab6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 846b6a002d69191a1d4c85a657f0d13d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8690a2f491a001a4ebd061b41f7ae0f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/KuangBao.prefab
+Dependencies: []

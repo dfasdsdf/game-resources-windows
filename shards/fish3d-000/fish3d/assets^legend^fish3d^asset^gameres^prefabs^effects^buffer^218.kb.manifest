@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 57266610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f4d9a31918c97bfce395fe45593c5e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b9b391e40ae0e2049eec7a2795c660b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f4d9a31918c97bfce395fe45593c5e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8690a2f491a001a4ebd061b41f7ae0f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Buffer/218.prefab
+Dependencies: []

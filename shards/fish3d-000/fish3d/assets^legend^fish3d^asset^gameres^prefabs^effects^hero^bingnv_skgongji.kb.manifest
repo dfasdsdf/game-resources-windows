@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 627761304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4b9e1f1ff11adf375fb422183c1d9c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3ec82710bf61bada97859581e90cf31
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c4b9e1f1ff11adf375fb422183c1d9c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b51b47857b90034797074aed7256390, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Hero/BingNv_SkGongji.prefab
+Dependencies: []
