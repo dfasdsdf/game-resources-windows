@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 324846302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33e7851e9b529d6416dddff8cc779dab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7ae775ecf45170f651e71b62537bd6e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 33e7851e9b529d6416dddff8cc779dab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdb88ad780beee04989ffe1c31567f95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Prefabs/UI/UI_3D_Main_RankItem.prefab
+Dependencies: []

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 659648124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 275d4e62138ac6080b457efeeb175aa1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4174e11550a39f6367935c5908eb63f4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 275d4e62138ac6080b457efeeb175aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bd99dcf43f97d48bb6215c70f0cd40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ff104aabf2eb4ae8b99fc1cf7cd7fa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Prefabs/UI/transcoinhead.prefab
+Dependencies: []
