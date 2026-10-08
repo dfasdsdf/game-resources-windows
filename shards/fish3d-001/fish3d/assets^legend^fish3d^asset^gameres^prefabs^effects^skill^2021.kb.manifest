@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3506243900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 165dd9b6ec467bb6055c44240320435c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0b04bd9ff7f91a0ab3d5f93ac696c8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 165dd9b6ec467bb6055c44240320435c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Skill/2021.prefab
+Dependencies: []

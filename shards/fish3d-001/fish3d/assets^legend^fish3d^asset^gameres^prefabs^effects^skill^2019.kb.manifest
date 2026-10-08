@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3696919902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eefcf71c1a1573cb60baf3fa4c5fbfe2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4120ba47b2b859ee1865421e6e84dc96
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eefcf71c1a1573cb60baf3fa4c5fbfe2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Skill/2019.prefab
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1550009599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7feb5406f7573a11ce778c5e17cc67df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a78e0bbe892aa8840c5822a824d565d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7feb5406f7573a11ce778c5e17cc67df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/UI/anim_gold.prefab
+Dependencies: []

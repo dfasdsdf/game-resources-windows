@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 913462273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d45d060c8b6add67606cae66ec4f1e8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: feb8b967c97091a8c0f133d42662874f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d45d060c8b6add67606cae66ec4f1e8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Skill/1106.prefab
+Dependencies: []

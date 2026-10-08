@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2285415088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6609e636e6116690607851f8430caafd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8a5044dd704bc3512d76d61cf990dbf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6609e636e6116690607851f8430caafd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Launcher/Bullet/7001.prefab
+Dependencies: []

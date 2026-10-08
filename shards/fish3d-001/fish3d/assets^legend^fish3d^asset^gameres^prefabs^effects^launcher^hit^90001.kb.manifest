@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3610582461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 438811c028557adc721dfa7d11ec0e27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 334d1a8345c8f16272364535a001b176
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 438811c028557adc721dfa7d11ec0e27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5921b17e494395146b64491e96616884, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Launcher/Hit/90001.prefab
+Dependencies: []

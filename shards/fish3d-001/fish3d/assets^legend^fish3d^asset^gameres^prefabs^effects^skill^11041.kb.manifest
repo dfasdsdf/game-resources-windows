@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2383297151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3953e990c8f1261944df5e5ad98976c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ec4ce6049f6287e1247837d6ed5e31e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3953e990c8f1261944df5e5ad98976c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Skill/11041.prefab
+Dependencies: []

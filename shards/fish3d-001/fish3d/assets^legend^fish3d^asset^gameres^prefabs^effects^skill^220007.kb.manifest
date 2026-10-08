@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3344803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb0c833a87a2bf8dcb07639fec4b3853
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cabe130df4187bdf04ccec3259fc74e1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eb0c833a87a2bf8dcb07639fec4b3853
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Skill/220007.prefab
+Dependencies: []

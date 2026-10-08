@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4207522149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6db34414008f9c824d72904f4a80e482
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38f07503289da04ef95b4817aced88ad
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6db34414008f9c824d72904f4a80e482
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Launcher/Fire/11123.prefab
+Dependencies: []
