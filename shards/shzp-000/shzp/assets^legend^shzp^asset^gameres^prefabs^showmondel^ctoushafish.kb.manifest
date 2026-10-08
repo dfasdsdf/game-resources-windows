@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3992043588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee4b85a290178b45c72f511dc9591864
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6961cf9a35795d547a48a0f51651263
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee4b85a290178b45c72f511dc9591864
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Prefabs/ShowMondel/CtoushaFish.prefab
+Dependencies: []

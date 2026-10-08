@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3206318228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a1521a27c00d252b89d78ec0ac29a67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6109c446e31ae0d48a4093d33a2c6cd2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a1521a27c00d252b89d78ec0ac29a67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9f622d309b251c4c8d8d8dd25bf3c46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6119036fdf6f342f8979f1dabbfae332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e75f1ed51da75a489c40fa27845e2ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0487d8c9d31cf6040a07a33a24d50f3c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Prefabs/ShowMondel/Fish10905sh.prefab
+Dependencies: []

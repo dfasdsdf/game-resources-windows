@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2221639771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3890f2b65316e8be61605a8e9ffca860
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3890f2b65316e8be61605a8e9ffca860
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_SND_STARTSHOWCARD.ogg
+Dependencies: []

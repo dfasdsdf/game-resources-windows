@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3666374185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd7ef25b54d1dca31e3d128a3fff0ef2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd7ef25b54d1dca31e3d128a3fff0ef2
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_END_LOST.ogg
+Dependencies: []
