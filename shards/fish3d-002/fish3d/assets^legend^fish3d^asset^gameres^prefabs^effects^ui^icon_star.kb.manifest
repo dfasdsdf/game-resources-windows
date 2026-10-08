@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2940912410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bd8208d53a8f946e1eb47cd377fadd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9838d6d81319a57e8e1fe23d674a4563
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0bd8208d53a8f946e1eb47cd377fadd4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/UI/icon_star.prefab
+Dependencies: []

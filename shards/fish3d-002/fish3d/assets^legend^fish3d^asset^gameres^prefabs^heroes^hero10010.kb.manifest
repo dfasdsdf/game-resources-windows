@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 361007585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03488292d59057bd5f2e7f1ce905e41e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4d95778c56f9cd4094e3d06a7682f09
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 03488292d59057bd5f2e7f1ce905e41e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ac6674373f635a4398ff6c5c1239c78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e75f1ed51da75a489c40fa27845e2ed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Heroes/Hero10010.prefab
+Dependencies: []

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3669920457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4089fed444fe7ee4362b534fa35f0c49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ea93f3110f90f5dee1a423ca14ed435
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4089fed444fe7ee4362b534fa35f0c49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51c32687771487c46aa6c7a56d925771, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Models/Fish10603.prefab
+Dependencies: []

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3395183923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1f11d1a2983fa2a8b18decbdab3c78d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6dc8ddd569e19331178c086b37ede6f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a1f11d1a2983fa2a8b18decbdab3c78d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/UIEff_MutipleAlt.prefab
+Dependencies: []
