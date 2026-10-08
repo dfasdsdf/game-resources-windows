@@ -1,0 +1,3 @@
+module github.com/dfasdsdf/game-resources-windows/shards/fish3d-004
+
+go 1.20
