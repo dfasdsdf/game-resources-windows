@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3044101831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40740e70df5a10e7265df103d8714e5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40740e70df5a10e7265df103d8714e5d
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/SelfBet.mp3
+Dependencies: []

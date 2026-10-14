@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2723648821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7656e66a6b284822651fe65c1175bbed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7656e66a6b284822651fe65c1175bbed
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Time_4.PNG
+Dependencies: []

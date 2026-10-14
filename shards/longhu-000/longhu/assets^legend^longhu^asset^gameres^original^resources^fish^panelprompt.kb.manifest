@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3192513639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15029ac75360eb9ff46fd5602906ffff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 16fc557306c16b6b4477cec89802e779
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 15029ac75360eb9ff46fd5602906ffff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e123882e8c5eb9adaac4ca42b98c66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Resources/Fish/PanelPrompt.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^center^font^fzcy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^center^font^hkyt.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^beijingkuang.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^common^offline_loading.kb
+- "/Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^\u516C\u5171\u8D44\u6E90^common.kb"
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fodder^common^common_mid.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored legacy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored.kb

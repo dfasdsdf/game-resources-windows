@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2710675753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9b45897fa12d9f56f7f46281b4fadbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9b45897fa12d9f56f7f46281b4fadbf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Station_Settlement.png
+Dependencies: []

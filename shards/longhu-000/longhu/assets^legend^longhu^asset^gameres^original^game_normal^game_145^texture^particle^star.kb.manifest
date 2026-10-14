@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1476486201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f623c08babb0af70666ff71ed29019b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f623c08babb0af70666ff71ed29019b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Particle/star.png
+Dependencies: []

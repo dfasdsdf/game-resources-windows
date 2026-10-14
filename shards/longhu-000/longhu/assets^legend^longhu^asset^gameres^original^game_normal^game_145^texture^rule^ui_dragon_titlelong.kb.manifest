@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3395341728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 087e1c89ef7c6c4ba76e6dce82234077
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 087e1c89ef7c6c4ba76e6dce82234077
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Rule/UI_Dragon_TitleLong.png
+Dependencies: []

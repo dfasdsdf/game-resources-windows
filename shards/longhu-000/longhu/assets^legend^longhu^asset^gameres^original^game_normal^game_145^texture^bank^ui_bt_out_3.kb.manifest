@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3934812806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db54b303e25c7961c37a9e8b1c9edc9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: db54b303e25c7961c37a9e8b1c9edc9f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Bank/UI_BT_Out_3.png
+Dependencies: []

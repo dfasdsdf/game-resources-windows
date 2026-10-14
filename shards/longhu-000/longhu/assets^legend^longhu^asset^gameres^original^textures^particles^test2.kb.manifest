@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2250450046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8241cdc43acfa68b18843041b9782297
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8241cdc43acfa68b18843041b9782297
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Textures/Particles/test2.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3115617820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 300f51ca5e3b45feb36a58384bf3f831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 300f51ca5e3b45feb36a58384bf3f831
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/WomanWinPoint12.mp3
+Dependencies: []

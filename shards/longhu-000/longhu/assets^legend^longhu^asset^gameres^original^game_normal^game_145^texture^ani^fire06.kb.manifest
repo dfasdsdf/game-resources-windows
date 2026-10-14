@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2072014244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6de0bfac1e0d70338f78198a68169bfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6de0bfac1e0d70338f78198a68169bfe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Fire06.PNG
+Dependencies: []

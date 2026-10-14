@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3931413612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 078ae05d6d5c2126ed77c720c72d5bcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 078ae05d6d5c2126ed77c720c72d5bcb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger18.png
+Dependencies: []

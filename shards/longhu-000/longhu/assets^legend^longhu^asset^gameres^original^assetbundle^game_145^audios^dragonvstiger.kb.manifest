@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1968990679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2872d4a8676543c7e97327d1acb34be6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2872d4a8676543c7e97327d1acb34be6
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/DragonVsTiger.mp3
+Dependencies: []

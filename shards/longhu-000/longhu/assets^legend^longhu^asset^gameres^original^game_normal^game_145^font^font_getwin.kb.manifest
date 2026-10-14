@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2031335130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 807ce6e97500d23571d4d8bbb5bb0c90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2990e9a136b43b81af8ce6a8c6effcff
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 807ce6e97500d23571d4d8bbb5bb0c90
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: BMSymbol
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Font/Font_Getwin.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^atlas^ui_dragon_font.kb

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3886336674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e027ebce305c6353d442d055246fcfbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e027ebce305c6353d442d055246fcfbc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Set/UI_Set_LineDown.png
+Dependencies: []

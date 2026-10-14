@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3001142401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d74f65b3b19e715cd00bf688eae8cb76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d74f65b3b19e715cd00bf688eae8cb76
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_System_5.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 459914257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 033e117af50b796154889c5e0ea083ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 033e117af50b796154889c5e0ea083ee
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/He03.png
+Dependencies: []

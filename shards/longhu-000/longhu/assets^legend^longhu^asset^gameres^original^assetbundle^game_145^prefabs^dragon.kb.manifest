@@ -1,0 +1,168 @@
+ManifestFileVersion: 0
+CRC: 4227993630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd18cc7e8055f743a488be9fd29513e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6d7de4b5c4fea86d55b22ca433e0bfa
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cd18cc7e8055f743a488be9fd29513e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 446d504799d99174383957fca80713c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a92b5d748695fd44aac9feef17ba415, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f093ad5830afe44aba6efa8b8a5d5b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e123882e8c5eb9adaac4ca42b98c66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 164e48b401085af89eee26344e1f6e5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15cc9c62605319f4a9b20b15918913fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2747e3775af504da1a4d5a46c5a1ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac5060295fbd39b4a88d20d0c83d925e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d44bc69c2ca5f943b845318866dc1bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04d1b7c9e9a19a24ab67123a43c6544b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EventDelegate
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Prefabs/Dragon.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^assetbundle^gamehall^font^spefont.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^center^font^fzcy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^center^font^hkyt.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^center^font^hkytw9.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^hallatlas^59hallhead.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^beijingkuang.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^common^common.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^common^offline_loading.kb
+- "/Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fishtexture^gamehall^uiatlas^\u516C\u5171\u8D44\u6E90^common.kb"
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^fodder^common^common_mid.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^cardopen.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^dragonvstiger.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^ending.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^flyhistorydragon.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^flyhistoryhe.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^flyhistorytiger.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^function.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^function_bank.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^gamestart.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^rotatohead.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^shadowfly.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^tiger.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^time.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^animation^waiting.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^atlas^ui_dragon_ani.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^atlas^ui_dragon_game.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_cm.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_getwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_green.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_lose.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_money.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_percent.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_rank.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_system.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_time.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_win.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_xz.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^font^font_yellow.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^headmask.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particle.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particledust.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlefire.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlefire1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlefire2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlelight.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlestar.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particletrail.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^material^particlewind.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^bank^ui_dragon_bankbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^game^ui_dragon_bottom.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^game^ui_dragon_centerbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^history^ui_dragon_historylist.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^rule^ui_dragon_ruletex.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^rule^ui_function_box.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^set^ui_set_box.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^system^ui_system_box.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^zhuang^ui_dragon_sqsz_black.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored legacy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored.kb

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4089652419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4d0103eb90e07af09c9a6df81b50d2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d4d0103eb90e07af09c9a6df81b50d2f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Fire03.PNG
+Dependencies: []

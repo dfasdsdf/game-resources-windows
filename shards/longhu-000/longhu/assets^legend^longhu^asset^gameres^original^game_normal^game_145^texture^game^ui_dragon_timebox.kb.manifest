@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 388832155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b4ac8488c4bc0b6f1c4f1570a11f355
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0b4ac8488c4bc0b6f1c4f1570a11f355
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Timebox.png
+Dependencies: []

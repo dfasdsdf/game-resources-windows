@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 341258665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e2137b3918ca461428c774af88ca60d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4e2137b3918ca461428c774af88ca60d
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/ManPoint8.mp3
+Dependencies: []

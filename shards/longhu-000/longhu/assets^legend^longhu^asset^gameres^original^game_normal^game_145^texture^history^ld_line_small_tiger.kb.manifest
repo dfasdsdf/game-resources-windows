@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1377928315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44759c9c23274bc6cd2579db239dd724
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44759c9c23274bc6cd2579db239dd724
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/LD_Line_Small_Tiger.png
+Dependencies: []

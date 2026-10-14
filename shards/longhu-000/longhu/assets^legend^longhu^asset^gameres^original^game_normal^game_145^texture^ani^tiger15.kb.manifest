@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1128400666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4a4b22f7364c0138890170907e29216
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c4a4b22f7364c0138890170907e29216
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger15.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1088204684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b16aa7e49ba63ab7fcf30e89cbd0e5ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b16aa7e49ba63ab7fcf30e89cbd0e5ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Set/UI_Set_LinePoint_1.png
+Dependencies: []

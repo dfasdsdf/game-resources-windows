@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2445084186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57c226d146dd7056d813c0c13c4b951f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 57c226d146dd7056d813c0c13c4b951f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Card/CardFlower03.png
+Dependencies: []

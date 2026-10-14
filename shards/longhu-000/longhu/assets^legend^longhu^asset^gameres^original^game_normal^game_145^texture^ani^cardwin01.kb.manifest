@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1121613456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f13cddc924917a4e827803152a3f81a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f13cddc924917a4e827803152a3f81a6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/CardWin01.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1249846230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a976c6fa13b567fa78ad9072396b4c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a976c6fa13b567fa78ad9072396b4c7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/ManPoint2.mp3
+Dependencies: []

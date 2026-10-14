@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 824361897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30adfa71dea95d78440523027e313b07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 30adfa71dea95d78440523027e313b07
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Green_wan.png
+Dependencies: []
