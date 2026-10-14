@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 789813630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6e2f396c40b3ed2b7de97a574e9353a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c6e2f396c40b3ed2b7de97a574e9353a
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/songjiang.mp3
+Dependencies: []

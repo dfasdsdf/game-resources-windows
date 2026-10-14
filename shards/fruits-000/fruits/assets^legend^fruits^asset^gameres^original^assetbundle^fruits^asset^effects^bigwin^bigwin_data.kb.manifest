@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2735309795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06ce24452ba3e5613c195d6c93108c22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f34247a0779dc109f3acb8a288f5dcd7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 06ce24452ba3e5613c195d6c93108c22
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Effects/BigWin/bigwin_data.asset
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^effects^bigwin^bigwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^effects^bigwin^bigwin_atlas.kb
