@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2656722433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3323229dd566a20e2bd03ca747bd59a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3323229dd566a20e2bd03ca747bd59a4
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_TIME_WARIMG.ogg
+Dependencies: []

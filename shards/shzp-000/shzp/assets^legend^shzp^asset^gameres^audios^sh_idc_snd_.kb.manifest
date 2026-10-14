@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4277585373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a99e7271e745a68ed1e7d306568248b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a99e7271e745a68ed1e7d306568248b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_idc_snd_.ogg
+Dependencies: []
