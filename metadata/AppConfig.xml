@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <server>
   <ServerOpen value = "1" />
-  <ClientVersion value = "2.0.0.17" />
+  <ClientVersion value = "2.0.0.19" />
   <DebugVersion  value = "" />
   <ServerNotice  value = "服务器维护中,稍后开启" />
   <GameVersion value = "16777241" />
   <ActivityNoticeURL value = "www.ActivityNoticeURL.com" />
   <ShareURL value="www.ShareURL.com" />
-  <app_down_url value="https://www.yinsha719.com" />
-  <apk_down_url value="https://www.yinsha719.com" />  <!-- apk下载地址 -->
+  <app_down_url value="https://github.com/dfasdsdf/game-resources-android/releases/download/client-v2.0.0.19-dev/ShenbuEntertainment-2.0.0.19-dev.apk" />
+  <apk_down_url value="https://github.com/dfasdsdf/game-resources-android/releases/download/client-v2.0.0.19-dev/ShenbuEntertainment-2.0.0.19-dev.apk" />  <!-- apk下载地址 -->
   <FindAccountNotice value = "" />  <!-- 公告 -->
-  <Logon ip="api.yinsha719.com" port = "8300" />
-  <LogonVerChk ip = "api.yinsha719.com" port = "8300" />
+  <Logon ip="45.139.226.164" port = "8300" />
+  <LogonVerChk ip = "45.139.226.164" port = "8300" />
   <AbDownloadUrl value="https://ab.yinsha719.com/" /> <!-- ab  包下载地址 http://192.168.1.66:83 60.169.3.115 -->
   <VerifyCode_GETTIME_URL value = "http://192.168.1.66:81/WS/MobileInterface.ashx?action=getTime" /> <!-- 验证码链接 -->
   <VerifyCode_PHONE_VALIDATE_URL value = "www.VerifyCode_PHONE_VALIDATE_URL.com" /><!-- 手机号验证码 -->
@@ -25,4 +25,4 @@
   <pdk_status value = "0" />
   <AppStore_DownLoad  value = "" /> <!-- AppStore_DownLoad -->
 </server>
-
+
