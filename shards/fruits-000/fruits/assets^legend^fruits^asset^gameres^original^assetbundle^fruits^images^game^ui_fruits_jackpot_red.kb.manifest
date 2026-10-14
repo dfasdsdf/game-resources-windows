@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 643837420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8967a0ed3bd05ebea4fe80e4d1d6dbae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8967a0ed3bd05ebea4fe80e4d1d6dbae
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Jackpot_Red.png
+Dependencies: []

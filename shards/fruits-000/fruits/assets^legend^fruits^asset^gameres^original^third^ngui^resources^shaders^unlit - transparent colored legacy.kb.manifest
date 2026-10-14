@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1662337397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bd153b6d9736989c061001ae4ef4510
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4bd153b6d9736989c061001ae4ef4510
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/Third/NGUI/Resources/Shaders/Unlit
+  - Transparent Colored Legacy.shader
+Dependencies: []

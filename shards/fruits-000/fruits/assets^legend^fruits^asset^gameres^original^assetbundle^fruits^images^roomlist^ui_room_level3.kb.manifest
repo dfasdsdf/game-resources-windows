@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 618554320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1af0d4b1368d3c3f6607cc7af11485b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1af0d4b1368d3c3f6607cc7af11485b1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/RoomList/UI_Room_Level3.PNG
+Dependencies: []

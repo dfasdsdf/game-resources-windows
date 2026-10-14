@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1258331507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2dc6f861e0780c93495b701fef51275
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d2dc6f861e0780c93495b701fef51275
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Loading/progress_bar_bg.png
+Dependencies: []

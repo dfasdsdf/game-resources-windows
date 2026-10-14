@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4116050611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 429176cb3672a2aa7136780dc6bf65cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 429176cb3672a2aa7136780dc6bf65cf
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/button_start.wav
+Dependencies: []

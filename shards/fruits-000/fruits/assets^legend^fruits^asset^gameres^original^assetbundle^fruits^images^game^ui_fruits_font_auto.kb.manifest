@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2081132521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aa603476298e0a6db4ba9050ee72780
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0aa603476298e0a6db4ba9050ee72780
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Font_Auto.png
+Dependencies: []

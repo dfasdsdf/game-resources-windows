@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1637855564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a83abe930b72df7674c193b590b2a74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a83abe930b72df7674c193b590b2a74
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/UI_Fruits_MenuSetBg.png
+Dependencies: []

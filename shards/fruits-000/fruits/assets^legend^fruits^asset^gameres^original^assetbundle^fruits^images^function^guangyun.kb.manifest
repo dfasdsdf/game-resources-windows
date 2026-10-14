@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2693154923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f90f7fb27d9ef51a68a31de2314fa65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9f90f7fb27d9ef51a68a31de2314fa65
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Function/guangyun.png
+Dependencies: []

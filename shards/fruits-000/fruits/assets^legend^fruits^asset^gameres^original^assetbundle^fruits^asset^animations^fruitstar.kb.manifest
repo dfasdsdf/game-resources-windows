@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1795843498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aeb4e7ab7939f299275b64feeb875a19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aeb4e7ab7939f299275b64feeb875a19
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Animations/FruitStar.anim
+Dependencies: []
