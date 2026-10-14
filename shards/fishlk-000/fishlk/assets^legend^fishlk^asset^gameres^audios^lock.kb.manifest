@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2095927734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3014da115a40b670188488555d56366
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f3014da115a40b670188488555d56366
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/lock.ogg
+Dependencies: []

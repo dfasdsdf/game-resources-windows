@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1969538393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b87f742e6f4fca9273ac5aaeb5a2612c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b87f742e6f4fca9273ac5aaeb5a2612c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/silver.ogg
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 311044179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 124561260b9285073e7a0689eb5e12b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 124561260b9285073e7a0689eb5e12b7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/superarm.ogg
+Dependencies: []
