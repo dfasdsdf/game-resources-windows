@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1590102784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5881a49da760d1f4c2644ce8f9fa64b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5881a49da760d1f4c2644ce8f9fa64b9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Zhuang/UI_BT_SZ_0.PNG
+Dependencies: []

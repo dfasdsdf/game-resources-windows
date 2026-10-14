@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 430076282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a3dfb80ca3c6204e3f6067ace35f954
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a3dfb80ca3c6204e3f6067ace35f954
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/ButtonClick.mp3
+Dependencies: []

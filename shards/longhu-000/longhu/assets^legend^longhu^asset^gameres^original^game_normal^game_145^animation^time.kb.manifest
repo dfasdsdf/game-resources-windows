@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2329119966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7575dbcf33569955e73499b2727ab031
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2efc7cb271410f566fa6baec4ab376f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7575dbcf33569955e73499b2727ab031
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/Time.anim
+Dependencies: []

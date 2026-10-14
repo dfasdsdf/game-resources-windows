@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2681745775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74da936e977e795870e59dcd4786c4e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 74da936e977e795870e59dcd4786c4e2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Textures/hero.png
+Dependencies: []

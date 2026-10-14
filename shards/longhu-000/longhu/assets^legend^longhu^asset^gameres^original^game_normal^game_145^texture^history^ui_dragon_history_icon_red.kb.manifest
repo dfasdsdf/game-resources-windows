@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3066962640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bc2ffc871429996ac6cb0e59f384e1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bc2ffc871429996ac6cb0e59f384e1f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/UI_Dragon_History_Icon_Red.png
+Dependencies: []

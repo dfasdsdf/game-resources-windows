@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3381048689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4c9cee59ce4d1d0ed08f8a32f1092eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f4c9cee59ce4d1d0ed08f8a32f1092eb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/WinBox08.PNG
+Dependencies: []

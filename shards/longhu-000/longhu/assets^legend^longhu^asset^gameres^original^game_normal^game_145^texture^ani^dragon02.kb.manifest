@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1658140832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44846e0d9e40ed807bf71f7891474bb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44846e0d9e40ed807bf71f7891474bb4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon02.png
+Dependencies: []

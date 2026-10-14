@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2749962657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fc33987b3858afec5286aa0878f32dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3fc33987b3858afec5286aa0878f32dc
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Third/NGUI/Resources/Shaders/Unlit
+  - Transparent Colored Legacy.shader
+Dependencies: []

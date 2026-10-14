@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 701388876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a7d4e7b49cfa667be9dc471e6d947c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a7d4e7b49cfa667be9dc471e6d947c5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Material/ParticleLight.mat
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^game_normal^game_145^texture^particle^glow_001.kb

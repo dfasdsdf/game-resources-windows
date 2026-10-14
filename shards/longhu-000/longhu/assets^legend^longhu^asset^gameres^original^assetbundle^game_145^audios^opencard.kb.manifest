@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1336708163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b65e552c4a64e6bfcecb7280ac65e11d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b65e552c4a64e6bfcecb7280ac65e11d
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/OpenCard.mp3
+Dependencies: []

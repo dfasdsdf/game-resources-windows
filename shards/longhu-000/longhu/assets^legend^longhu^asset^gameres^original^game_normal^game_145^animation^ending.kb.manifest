@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2126734037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 198aced639653dbf252450162a9904e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2efc7cb271410f566fa6baec4ab376f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 198aced639653dbf252450162a9904e5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/Ending.anim
+Dependencies: []

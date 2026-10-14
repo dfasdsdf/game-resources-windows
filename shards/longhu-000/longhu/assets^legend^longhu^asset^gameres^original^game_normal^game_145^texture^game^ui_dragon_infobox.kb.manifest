@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2655018967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a846668d94d4e52178aefe6ae62807
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2a846668d94d4e52178aefe6ae62807
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Infobox.png
+Dependencies: []

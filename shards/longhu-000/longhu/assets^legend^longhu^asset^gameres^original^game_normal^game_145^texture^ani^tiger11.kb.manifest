@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1011787642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5346305e5cce21211c59d8c842223de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5346305e5cce21211c59d8c842223de8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger11.png
+Dependencies: []

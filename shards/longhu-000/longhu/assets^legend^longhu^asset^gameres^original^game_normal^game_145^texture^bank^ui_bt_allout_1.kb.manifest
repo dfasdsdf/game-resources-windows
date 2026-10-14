@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2564356850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e901696c4b07621cccbf94295a12d34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e901696c4b07621cccbf94295a12d34
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Bank/UI_BT_Allout_1.png
+Dependencies: []

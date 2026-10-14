@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1351846653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a07eefa5068030a80cf6af80029f076f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a07eefa5068030a80cf6af80029f076f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/DragonCall.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2285214741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49c393b9284726e3c844661790d971d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 49c393b9284726e3c844661790d971d1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Rule/UI_Dragon_Teg_Rule.png
+Dependencies: []

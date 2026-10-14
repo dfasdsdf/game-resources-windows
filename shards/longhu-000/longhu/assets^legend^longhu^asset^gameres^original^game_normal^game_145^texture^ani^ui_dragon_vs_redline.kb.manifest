@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4167973649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e84bb32b75d234030f12927357c4f8bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e84bb32b75d234030f12927357c4f8bd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/UI_Dragon_VS_Redline.png
+Dependencies: []

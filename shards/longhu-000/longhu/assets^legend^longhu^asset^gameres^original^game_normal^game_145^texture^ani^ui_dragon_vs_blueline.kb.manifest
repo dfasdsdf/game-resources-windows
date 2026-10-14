@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2892458448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 986db2e7b884fb2f4992d5b6ba62a8fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 986db2e7b884fb2f4992d5b6ba62a8fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/UI_Dragon_VS_Blueline.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2045994635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 382583ca6d4dfb1558e115e8bfb1d937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2efc7cb271410f566fa6baec4ab376f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 382583ca6d4dfb1558e115e8bfb1d937
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/RotatoHead.anim
+Dependencies: []

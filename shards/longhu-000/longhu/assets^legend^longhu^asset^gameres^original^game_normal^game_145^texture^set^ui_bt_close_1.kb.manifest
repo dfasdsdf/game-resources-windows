@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2114121460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf4597cdc10860c3f6210ed1106f6770
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bf4597cdc10860c3f6210ed1106f6770
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Set/UI_BT_Close_1.png
+Dependencies: []

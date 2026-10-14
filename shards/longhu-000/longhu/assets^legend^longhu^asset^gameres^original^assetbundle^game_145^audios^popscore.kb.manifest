@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 375543236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d5ca9f70fae9ab7a20e7073c884102c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d5ca9f70fae9ab7a20e7073c884102c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/Popscore.mp3
+Dependencies: []

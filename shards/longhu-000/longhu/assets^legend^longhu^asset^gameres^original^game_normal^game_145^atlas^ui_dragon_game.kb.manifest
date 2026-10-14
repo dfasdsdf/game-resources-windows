@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3010429494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f557f2ae5fe9b90b8327994f0ba2332d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 295169abb5d439586f2d77e475c49e5c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f557f2ae5fe9b90b8327994f0ba2332d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Atlas/UI_Dragon_Game.png
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Atlas/UI_Dragon_Game.prefab
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Atlas/UI_Dragon_Game.mat
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/longhu/assets^legend^longhu^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored.kb

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3164055161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8b92525d7a2e7c595f81436524410d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e8b92525d7a2e7c595f81436524410d3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Center/Font/FZCY.TTF
+Dependencies: []

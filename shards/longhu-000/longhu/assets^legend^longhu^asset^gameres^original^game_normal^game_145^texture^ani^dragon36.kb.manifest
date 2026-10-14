@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3348860975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4df15abd113d89fa5925ded2c3114166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4df15abd113d89fa5925ded2c3114166
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon36.PNG
+Dependencies: []

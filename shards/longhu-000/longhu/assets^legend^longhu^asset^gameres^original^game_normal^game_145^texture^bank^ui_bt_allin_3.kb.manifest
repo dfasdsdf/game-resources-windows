@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3644021055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97926fb0f137bc711a0a57e854751d3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97926fb0f137bc711a0a57e854751d3e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Bank/UI_BT_Allin_3.png
+Dependencies: []

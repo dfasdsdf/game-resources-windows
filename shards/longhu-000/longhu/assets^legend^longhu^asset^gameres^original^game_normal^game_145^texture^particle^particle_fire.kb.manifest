@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 287236896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a35829a60307743a2d359385136b0739
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a35829a60307743a2d359385136b0739
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Particle/Particle_Fire.PNG
+Dependencies: []

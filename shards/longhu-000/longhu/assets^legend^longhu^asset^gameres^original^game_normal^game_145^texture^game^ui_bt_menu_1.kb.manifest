@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2020088071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8ec5f7b741024fcf0955ffc1c461261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8ec5f7b741024fcf0955ffc1c461261
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_BT_Menu_1.png
+Dependencies: []

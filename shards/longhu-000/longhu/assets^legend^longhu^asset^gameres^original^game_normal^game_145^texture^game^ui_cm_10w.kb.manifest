@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3967139245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29ec2a46b32aae4c0cd08e22ff9cae28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29ec2a46b32aae4c0cd08e22ff9cae28
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_CM_10w.png
+Dependencies: []

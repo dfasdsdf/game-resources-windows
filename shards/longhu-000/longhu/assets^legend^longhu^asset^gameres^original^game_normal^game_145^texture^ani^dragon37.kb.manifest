@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3283678660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b71b1921fac6adf5ab09b66c10e5d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8b71b1921fac6adf5ab09b66c10e5d64
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon37.PNG
+Dependencies: []
