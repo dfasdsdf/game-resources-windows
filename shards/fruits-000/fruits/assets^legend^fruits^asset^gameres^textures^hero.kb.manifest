@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2771701679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b8ba1bdd9d123656218cb274f3a67ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b8ba1bdd9d123656218cb274f3a67ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Textures/hero.png
+Dependencies: []
