@@ -34,4 +34,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Font_Line.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^game_normal^game_524^atlas^ui_fruits_font.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^game_normal^game_524^atlas^ui_fruits_font.kb

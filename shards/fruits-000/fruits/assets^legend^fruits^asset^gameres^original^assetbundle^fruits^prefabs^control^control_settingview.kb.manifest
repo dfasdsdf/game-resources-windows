@@ -3,13 +3,13 @@ CRC: 2111226558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbdaf1c560003c3aee56f5c517326d73
+    Hash: 00a42fe822604381277126efea96cb31
   TypeTreeHash:
     serializedVersion: 2
     Hash: 61643b70a664563d2279e83252b8155b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dbdaf1c560003c3aee56f5c517326d73
+    Hash: 00a42fe822604381277126efea96cb31
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -58,6 +58,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Prefabs/Control/Control_SettingView.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menuclose.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menusetbg.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^setting^setting.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menuclose.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menusetbg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^setting^setting.kb

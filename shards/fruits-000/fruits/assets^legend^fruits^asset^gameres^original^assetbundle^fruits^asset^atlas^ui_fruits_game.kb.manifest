@@ -3,13 +3,13 @@ CRC: 2416936313
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4115c46869e1d4d4289639bb3906ad4a
+    Hash: b88cd33aaf75586f626cd5f08e3f9669
   TypeTreeHash:
     serializedVersion: 2
     Hash: 295169abb5d439586f2d77e475c49e5c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4115c46869e1d4d4289639bb3906ad4a
+    Hash: b88cd33aaf75586f626cd5f08e3f9669
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,5 +34,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Atlas/UI_Fruits_Game.mat
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Atlas/UI_Fruits_Game.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
   - transparent colored legacy.kb
