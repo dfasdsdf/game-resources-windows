@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3560457287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a17ff5b4e3feffdcd9aee2c153826bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a17ff5b4e3feffdcd9aee2c153826bd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/Center/Font/FZCY.TTF
+Dependencies: []

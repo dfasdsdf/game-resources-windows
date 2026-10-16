@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 125191447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999e35f5a2d2a8effb784397187113ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc74e8a7a57d7bfd4499b55cee6e2acc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 999e35f5a2d2a8effb784397187113ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tongpei/fqzs_tongpei_Atlas.asset
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tongpei^fqzs_tongpei.atlas.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tongpei^fqzs_tongpei_material.kb

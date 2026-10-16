@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1051613499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40953dec406a99663e09834fea4e7bd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40953dec406a99663e09834fea4e7bd5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/zoushi_bg.png
+Dependencies: []

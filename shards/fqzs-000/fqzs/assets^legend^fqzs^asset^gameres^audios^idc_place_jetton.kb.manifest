@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1430504763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6a045a69460fa16c3c2be9b5d380f7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a6a045a69460fa16c3c2be9b5d380f7b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_PLACE_JETTON.wav
+Dependencies: []

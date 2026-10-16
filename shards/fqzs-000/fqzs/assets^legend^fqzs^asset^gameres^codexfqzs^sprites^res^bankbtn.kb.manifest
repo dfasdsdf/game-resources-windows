@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 911834379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92dbee4c36e813a6af229e3b7185f153
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 92dbee4c36e813a6af229e3b7185f153
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/bankbtn.png
+Dependencies: []

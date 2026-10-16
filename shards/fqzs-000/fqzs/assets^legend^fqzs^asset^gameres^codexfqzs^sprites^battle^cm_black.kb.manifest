@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2950227956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f6fff904467381b254de7e4673da352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3f6fff904467381b254de7e4673da352
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/cm_black.png
+Dependencies: []

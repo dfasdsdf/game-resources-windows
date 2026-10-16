@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4236644666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d2fee571c75ed6b8ec94fa518173e6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d2fee571c75ed6b8ec94fa518173e6d
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/Third/NGUI/Resources/Shaders/Unlit
+  - Transparent Colored Legacy.shader
+Dependencies: []

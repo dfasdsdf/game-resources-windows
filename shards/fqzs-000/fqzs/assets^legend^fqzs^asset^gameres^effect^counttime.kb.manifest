@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1144122690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0216743f7cb17405e774f8580980a2b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0216743f7cb17405e774f8580980a2b4
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Effect/counttime.controller
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^effect^times.kb

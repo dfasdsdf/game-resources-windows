@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2381982311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c33b3545f799c8d7533909bd6f77a899
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c33b3545f799c8d7533909bd6f77a899
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/shayu/fqzs_yinsha_Material.mat
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^third^spine^runtime^spine-unity^shaders^spine-skeleton.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^shayu^fqzs_yinsha.kb

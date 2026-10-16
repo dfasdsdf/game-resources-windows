@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1711234744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcf0a78aab60abea0a7a5f0ffd3cf8d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2443a75e77ab939834e29c18554c77e2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dcf0a78aab60abea0a7a5f0ffd3cf8d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Prefabs/UI/UI_FQZS_NoticeWin.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^center^font^hkyt.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^center^font^hkytw9.kb

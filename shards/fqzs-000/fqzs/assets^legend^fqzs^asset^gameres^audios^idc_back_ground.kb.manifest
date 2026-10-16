@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3768646589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8f739ca78749c7e2c65e8ae11c30f9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f8f739ca78749c7e2c65e8ae11c30f9e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_BACK_GROUND.wav
+Dependencies: []

@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3376068004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df776c04584b025ad89d21126ad54cde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3bef872166198907b8c5ece044f8ef0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df776c04584b025ad89d21126ad54cde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59bc91dc748833f4fa15682accf1ec4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Prefabs/UI/UI_FQZSchooseroom.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^fishtexture^gamehall^effects^beike^lizi.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^fishtexture^gamehall^effects^beike^skeleton_material.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^fishtexture^gamehall^effects^beike^skeleton_skeletondata.kb
+- "/Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^fishtexture^gamehall^uiatlas^\u516C\u5171\u8D44\u6E90^common.kb"
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^game_fish^game_523^effect^textures^light_20_m_2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^game_fish^game_523^effect^textures^ray_01_m_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^third^ngui^resources^shaders^unlit
+  - transparent colored legacy.kb

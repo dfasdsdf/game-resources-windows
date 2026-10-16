@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4152974916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fca6114196540d5f4173ab5549b4938
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2fca6114196540d5f4173ab5549b4938
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/cm3.png
+Dependencies: []

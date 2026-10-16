@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 877300816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78d7329517c29efb313992d4620f1d16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 78d7329517c29efb313992d4620f1d16
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/newbattle/fqzs_record_11.png
+Dependencies: []
