@@ -58,4 +58,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/Eff_BossComing.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/StandAlone/2.0.0.19/fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss1.kb
