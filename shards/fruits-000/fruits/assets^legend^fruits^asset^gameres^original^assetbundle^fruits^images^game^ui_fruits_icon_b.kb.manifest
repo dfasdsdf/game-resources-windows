@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4126049089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b813a43c824aa82ef0faac8f0f5499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65b813a43c824aa82ef0faac8f0f5499
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Icon_b.png
+Dependencies: []

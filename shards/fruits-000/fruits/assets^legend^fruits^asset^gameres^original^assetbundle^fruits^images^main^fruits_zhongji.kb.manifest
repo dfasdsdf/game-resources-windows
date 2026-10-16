@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4000877956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8bdfd052c4509793e6beee762e2d158
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8bdfd052c4509793e6beee762e2d158
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Main/fruits_zhongji.png
+Dependencies: []

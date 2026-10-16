@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2667448397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f28d3ee433724490deb29051a5720c4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f28d3ee433724490deb29051a5720c4a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.png
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.fontsettings
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.mat
+Dependencies: []

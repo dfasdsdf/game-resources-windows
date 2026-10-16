@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2416936313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b88cd33aaf75586f626cd5f08e3f9669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 295169abb5d439586f2d77e475c49e5c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b88cd33aaf75586f626cd5f08e3f9669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Atlas/UI_Fruits_Game.png
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Atlas/UI_Fruits_Game.mat
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Atlas/UI_Fruits_Game.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored legacy.kb

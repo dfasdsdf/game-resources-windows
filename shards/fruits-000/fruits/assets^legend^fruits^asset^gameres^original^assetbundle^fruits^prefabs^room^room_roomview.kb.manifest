@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 2444235332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2640d42724dad0585ce2fd6d75bb8d3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47c15f8396be420b418827eb6a0da318
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2640d42724dad0585ce2fd6d75bb8d3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac3905ca445a6334a8eeb2b2ea93340e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a5e22afbb01cf9468c3bcfb912c0045, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb2b14f048c5e446a7959d63345c80d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator/Settings
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Prefabs/Room/Room_RoomView.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^fzcy^fzcy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^help^help1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^help^help2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^help^help3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^help^help5.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^roomlist^roomlist.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^roomlist^ui_room_level2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^roomlist^ui_room_level3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^roomlist^ui_room_level4.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^setting^setting.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^setting^shz_img_guizekuang.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^bootscenes^textures^p1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fishtexture^gamehall^uiatlas^new^dismond.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fishtexture^gamehall^uiatlas^new^gold.kb
+- "/Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fishtexture^gamehall^uiatlas^new^\u5706\u89D2\u77E9\u5F621\u62F7\u8D1D.kb"
+- "/Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fishtexture^gamehall^uiatlas^new^\u77E9\u5F624.9.kb"
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select4.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select_di.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_select_guan.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_selectbg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_selecthua.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^fodder^hall^select^game_selectreturn.kb

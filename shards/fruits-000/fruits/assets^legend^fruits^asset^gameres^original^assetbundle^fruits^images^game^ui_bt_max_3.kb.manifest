@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 790465354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cd3a6604450a755f458c0f9643ecff6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2cd3a6604450a755f458c0f9643ecff6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_Max_3.png
+Dependencies: []

@@ -1,0 +1,205 @@
+ManifestFileVersion: 0
+CRC: 1915983055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 508b4df56218dfc9e2b0125273099b49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98de44a1371020a042370bd7b1abdeaa
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 508b4df56218dfc9e2b0125273099b49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79e599f06e4b53d5bc256e4fecc42406, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44dab01df09259a49daa5813efb4857d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4639aee6944353a285b1fb04b976a1aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cbc36217de6f9a4884ff2e90dff0c23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bf82598c2cd5119b18cd135bec8910d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25e410361b225f07a1459bf45d6de9da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Prefabs/Main/GameViewFru.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^animations^bigwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^animations^fruitstar.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^animations^fruitwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^effects^bigwin^bigwin_bigwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^effects^bigwin^bigwin_data.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number1^firuts_num.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number2^font_js.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number4^font_yf.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number5^fruits_num.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bibei^fruits_gold.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^star01.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^starbigwin.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^starfree02.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^wincoin01.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^wincoin02.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^wincoin03.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^bonus^wincoin04.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^bw_4.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fx2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^bw_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_freebg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_freebgs.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_freezi.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menubg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menudown.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menureturn.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menurule.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menuset.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^new^ui_fruits_menuup.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^num.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_add_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_add_1_p.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_add_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_exit_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_exit_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_max_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_max_1_p.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_max_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_mune_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_mune_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_red_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_red_1_p.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_red_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_rule_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_rule_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_start_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_start_1_p.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_start_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_stop_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_stop_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_stopauto_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_bt_stopauto_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruist_dz.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruist_start.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruist_ym.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_big.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_blackbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_centerbg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_freenum.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_goldbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_icon_a.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_jackpot.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_scorewinbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_shuline.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_win.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_winbox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_winboxflash.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_fruits_xs.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^game^ui_new_bg.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^fruits_line.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^line19_30.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^line1_18.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^linenumber.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_1_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_2_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_3_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_4_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_5_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_6_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_7_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_8_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^line^num^jxlw_line_9_off.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^main^incomerank.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
+  - transparent colored.kb

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1457463268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f7861c33f8ecb0653f4bb2bc37ff200
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9f7861c33f8ecb0653f4bb2bc37ff200
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/666e3aed697352d25bcd42c4aeb1d376.png
+Dependencies: []

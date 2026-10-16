@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 203462238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f16f155b57a61652b3009ea9349477f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2efc7cb271410f566fa6baec4ab376f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5f16f155b57a61652b3009ea9349477f
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Animations/StartBONUS.anim
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2311738388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf8a6b1f7b726c46c3fc41aed8161cb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf8a6b1f7b726c46c3fc41aed8161cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/FZCY/FZCY.TTF
+Dependencies: []

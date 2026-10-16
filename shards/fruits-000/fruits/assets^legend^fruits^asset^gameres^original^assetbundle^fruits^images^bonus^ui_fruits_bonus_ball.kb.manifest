@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2550394936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25b7c8aecfb99058984a7f837aee0daa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25b7c8aecfb99058984a7f837aee0daa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Bonus/UI_Fruits_BONUS_Ball.png
+Dependencies: []
