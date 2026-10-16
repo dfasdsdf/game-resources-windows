@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3595565188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c686188b55664adf4615174fe727d6d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c686188b55664adf4615174fe727d6d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/wuren.png
+Dependencies: []

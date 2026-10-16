@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3085041608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2455ac41625bd9289983326117cc8411
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2455ac41625bd9289983326117cc8411
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-50wan-1.png
+Dependencies: []

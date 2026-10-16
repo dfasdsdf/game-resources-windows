@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4020319294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f75f4a03723adb42d642eddf31f1049
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f75f4a03723adb42d642eddf31f1049
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_SND_WIN.wav
+Dependencies: []

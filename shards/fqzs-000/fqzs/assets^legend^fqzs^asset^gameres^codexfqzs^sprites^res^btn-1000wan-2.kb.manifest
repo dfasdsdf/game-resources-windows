@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1305804826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4e8f6368f2955adc3044a04907ecb42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4e8f6368f2955adc3044a04907ecb42
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-1000wan-2.png
+Dependencies: []

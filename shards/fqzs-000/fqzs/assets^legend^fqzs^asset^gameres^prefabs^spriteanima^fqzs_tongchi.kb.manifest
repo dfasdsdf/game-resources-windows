@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2173966082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b96d09389d794a438e8672e39542844
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e6951eae270bdc004fa7a563ac11ebf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b96d09389d794a438e8672e39542844
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Prefabs/SpriteAnima/fqzs_tongchi.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tongchi^fqzs_tongchi_material.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tongchi^fqzs_tongchi_skeletondata.kb

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 854758353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70295e192f1151a2d588612ff8ea71a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70295e192f1151a2d588612ff8ea71a1
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tstxselect/fqzs_tstxselect.atlas.txt
+Dependencies: []

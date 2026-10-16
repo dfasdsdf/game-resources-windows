@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 345795008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d69a3500fee199a3dad5dde7f5d5646d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d69a3500fee199a3dad5dde7f5d5646d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/withdrawnum.png
+Dependencies: []

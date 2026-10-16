@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 177509513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9b62db2df7eaaa1ffd03d593c1593f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9b62db2df7eaaa1ffd03d593c1593f3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/newbattle/UI_fqzs_tiao.png
+Dependencies: []

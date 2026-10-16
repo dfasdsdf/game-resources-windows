@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2081575111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3cc17fcf17566cef60dd20618bedbfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f3cc17fcf17566cef60dd20618bedbfb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/btn_sl.png
+Dependencies: []

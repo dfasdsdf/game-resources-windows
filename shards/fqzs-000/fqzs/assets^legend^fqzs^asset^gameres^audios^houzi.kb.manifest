@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1378964631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f29deee617b462ef166df072c75eddef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f29deee617b462ef166df072c75eddef
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/houzi.wav
+Dependencies: []

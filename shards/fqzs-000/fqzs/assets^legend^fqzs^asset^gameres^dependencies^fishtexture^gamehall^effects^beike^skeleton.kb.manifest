@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2044754891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5dedb8d8985755bb568e68ee8393697
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d5dedb8d8985755bb568e68ee8393697
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/Effects/beike/skeleton.png
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/Effects/beike/skeleton.json
+Dependencies: []

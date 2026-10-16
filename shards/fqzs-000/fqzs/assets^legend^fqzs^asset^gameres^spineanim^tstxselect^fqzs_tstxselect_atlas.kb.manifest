@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3630188816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 135ea8037c5346279491f4de15e937d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc74e8a7a57d7bfd4499b55cee6e2acc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 135ea8037c5346279491f4de15e937d2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tstxselect/fqzs_tstxselect_Atlas.asset
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect.atlas.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect_material.kb

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2391650824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abe8cf6d5d7f668ef4a7001baca7fa05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c16e21d661707899aa1cd3c1ca49b06b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: abe8cf6d5d7f668ef4a7001baca7fa05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Prefabs/SpriteAnima/fqzs_shayu.prefab
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^shayu^fqzs_yinsha_material.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^shayu^fqzs_yinsha_skeletondata.kb

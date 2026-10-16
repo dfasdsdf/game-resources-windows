@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 537809250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999af2b99cf573fcac628101a8873ca9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 999af2b99cf573fcac628101a8873ca9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/tongchi_big.png
+Dependencies: []

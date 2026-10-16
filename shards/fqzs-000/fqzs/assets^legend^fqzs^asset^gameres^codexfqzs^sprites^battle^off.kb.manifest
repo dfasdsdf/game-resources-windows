@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 448077712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf0b6705758d1dd983191db6e656b685
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bf0b6705758d1dd983191db6e656b685
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/off.png
+Dependencies: []

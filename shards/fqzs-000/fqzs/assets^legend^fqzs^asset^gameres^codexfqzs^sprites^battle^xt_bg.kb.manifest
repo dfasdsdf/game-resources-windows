@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 749204790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a1ff367e928d949fdc0a4d1529d907b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a1ff367e928d949fdc0a4d1529d907b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/xt_bg.png
+Dependencies: []

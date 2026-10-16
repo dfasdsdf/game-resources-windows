@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4223050389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1109355be6c49f2e275648592bc47ee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1109355be6c49f2e275648592bc47ee4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-quchu-2.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2796730524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bf405ea562ce0b47a85aa27890be50a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4bf405ea562ce0b47a85aa27890be50a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/aniatlas2_02.png
+Dependencies: []

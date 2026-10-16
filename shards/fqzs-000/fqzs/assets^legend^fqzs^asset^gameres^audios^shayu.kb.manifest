@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3635588352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37dbb6fd02edeabd097c4b0ec4fd89fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37dbb6fd02edeabd097c4b0ec4fd89fc
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/shayu.wav
+Dependencies: []

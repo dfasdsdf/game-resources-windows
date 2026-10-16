@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1780985973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39434942f17b8d2c55b1103690ba6d14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39434942f17b8d2c55b1103690ba6d14
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/bg/ANIMAL_LIST.png
+Dependencies: []
