@@ -1,7 +1,7 @@
 {
     "generation": "u2022",
     "platform": "StandAlone",
-    "version": "fqzs-20261014",
+    "version": "2.0.0.19",
     "bundles": [
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^audios^1.kb",
@@ -1440,9 +1440,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^config^bytes^bubblelanguages.kb",
-            "hash": "326dfb64b82f63b757cec1465f824df0fae1be08dda7b03a49ac1e6c95566155",
-            "crc": 1311174221,
-            "size": 11327,
+            "hash": "1749aca87bad9ab52fbd05eb217ef08fb6dfa894dd4df98417d307b7cdeb7f00",
+            "crc": 187468005,
+            "size": 11895,
             "dependencies": []
         },
         {
@@ -4100,9 +4100,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^models^fish10907.kb",
-            "hash": "5354d20a052ab0e335b2a6eb3ec2fd27",
-            "crc": 2703176042,
-            "size": 885446,
+            "hash": "591b6f3fea2fff4f1b9c27668d2f8976",
+            "crc": 1282445981,
+            "size": 885007,
             "dependencies": []
         },
         {
@@ -13271,9 +13271,9 @@
         },
         {
             "name": "gamehall/assets^legend^gamehall^asset^gameres^prefabs^ui^ui_login.kb",
-            "hash": "60487d3cf3430cfc3d8710b6dd4654ec",
-            "crc": 4201421076,
-            "size": 20397682,
+            "hash": "21640127f20cf7eaf3ad5581ae080155",
+            "crc": 1898364369,
+            "size": 20194647,
             "dependencies": []
         },
         {
