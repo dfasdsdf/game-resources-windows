@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1874908295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95066667da33add306770c297d638a09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95066667da33add306770c297d638a09
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Audios/377.wav
+Dependencies: []
