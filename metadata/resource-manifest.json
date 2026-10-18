@@ -3393,9 +3393,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^effects^ui^anim_fishtotal_1.kb",
-            "hash": "018d203235e71bd5e8b10b0629b3cd5e",
-            "crc": 3117039946,
-            "size": 5183990,
+            "hash": "06d3de6beae3c5aa34c9ebfe91806fdd",
+            "crc": 4238224648,
+            "size": 5183832,
             "dependencies": []
         },
         {
@@ -3407,9 +3407,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^effects^ui^anim_fishtotal_2.kb",
-            "hash": "3841f5ba8d62ea9be8c0befe42314aa2",
-            "crc": 1778162401,
-            "size": 5142073,
+            "hash": "e41e8643dd44cfdc77af28984aae93f9",
+            "crc": 826357095,
+            "size": 5141915,
             "dependencies": []
         },
         {
@@ -3435,9 +3435,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^effects^ui^anim_fishtotal_6.kb",
-            "hash": "e27478e34fc95cf87c866ec0eef9f373",
-            "crc": 1882832587,
-            "size": 4814654,
+            "hash": "8aacf0cb78dd6f6f9a3abf1b4f7d7f3c",
+            "crc": 2278541056,
+            "size": 4814490,
             "dependencies": []
         },
         {
@@ -3477,9 +3477,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^effects^ui^anim_herototal_1.kb",
-            "hash": "37ba46940afac2a8bf1320020726383f",
-            "crc": 65659801,
-            "size": 3953906,
+            "hash": "d0d1112027defbec2a3ee4572bc3729b",
+            "crc": 72543860,
+            "size": 3953732,
             "dependencies": []
         },
         {
@@ -4373,9 +4373,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^battleui.kb",
-            "hash": "ef0c4752b711d084387540f73021c435",
-            "crc": 1309204995,
-            "size": 7630954,
+            "hash": "bc874353aec113d15c6d66cb4e0406e7",
+            "crc": 1862384375,
+            "size": 7630779,
             "dependencies": []
         },
         {
@@ -4401,9 +4401,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^changelauncherui.kb",
-            "hash": "036c1966ec2d73602f7185613b9fc507",
-            "crc": 424879187,
-            "size": 4401527,
+            "hash": "7ad374deee25d04b74577792943691c9",
+            "crc": 518531518,
+            "size": 4401340,
             "dependencies": []
         },
         {
@@ -4447,9 +4447,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^launcherseat0.kb",
-            "hash": "4dd54f6625b940f533487f90613e3fba",
-            "crc": 1663996807,
-            "size": 11182763,
+            "hash": "6d60c1edea427ec16cc4c4c37ac76cb8",
+            "crc": 3720859327,
+            "size": 11182588,
             "dependencies": []
         },
         {
@@ -4496,23 +4496,23 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^quickbuyui.kb",
-            "hash": "c1c33ddb8da69cb727ba3c8c3641e1b0",
-            "crc": 75721805,
-            "size": 6495449,
+            "hash": "bfafe2d5fd68a38298cf96dc29996831",
+            "crc": 54026656,
+            "size": 6495274,
             "dependencies": []
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^ui_bomb_battle.kb",
-            "hash": "236daac62d4339e6e5abdeb5ebd814c3",
-            "crc": 4101597055,
-            "size": 14049441,
+            "hash": "9dca4e4401bc59bfd7c89d3e74e7973b",
+            "crc": 3705467819,
+            "size": 14049266,
             "dependencies": []
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^ui_exitgame.kb",
-            "hash": "1e2ff03228e75eb6dbc11cf5f88e8d8b",
-            "crc": 1726734335,
-            "size": 9183337,
+            "hash": "01ab107132f5300f3bc2524f19d8a03c",
+            "crc": 3624043207,
+            "size": 9183160,
             "dependencies": []
         },
         {
@@ -4524,9 +4524,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^ui_fishinfo.kb",
-            "hash": "e37b7a942e8779e4b343a816d6f1b085",
-            "crc": 3770041263,
-            "size": 7616751,
+            "hash": "321997a69fa0cfa1c004be3124848a3b",
+            "crc": 3046928999,
+            "size": 7616585,
             "dependencies": []
         },
         {
@@ -4573,9 +4573,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^ui^ui_tujian.kb",
-            "hash": "984e09abcc5e77405aa50b9e72f42059",
-            "crc": 2541008322,
-            "size": 9498267,
+            "hash": "11f3e1dc83bd3ff5aca8d9119d0bf45d",
+            "crc": 352640887,
+            "size": 9497927,
             "dependencies": []
         },
         {
@@ -4615,9 +4615,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss3.kb",
-            "hash": "e7c5037b56f9599a702a220dd8545d37",
-            "crc": 845207268,
-            "size": 196955,
+            "hash": "d830914945944b4683feef92a4e6c4fe",
+            "crc": 4277740645,
+            "size": 195441,
             "dependencies": []
         },
         {
