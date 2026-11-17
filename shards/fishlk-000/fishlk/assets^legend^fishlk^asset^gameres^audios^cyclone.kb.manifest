@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2035479162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67d70122fc4f94c33b37e9e3347e8f72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67d70122fc4f94c33b37e9e3347e8f72
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/cyclone.ogg
+Dependencies: []
