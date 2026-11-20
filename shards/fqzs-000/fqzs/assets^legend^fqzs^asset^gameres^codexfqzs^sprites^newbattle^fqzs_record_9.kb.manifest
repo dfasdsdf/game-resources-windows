@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2584853795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 782332b6910884ad7496c3ca3fde40a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 782332b6910884ad7496c3ca3fde40a1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/newbattle/fqzs_record_9.png
+Dependencies: []

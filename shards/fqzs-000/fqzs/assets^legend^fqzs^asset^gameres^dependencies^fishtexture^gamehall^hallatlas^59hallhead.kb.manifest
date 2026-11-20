@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2740622569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 093545151eda5e6b9c3439958725b6cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 295169abb5d439586f2d77e475c49e5c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 093545151eda5e6b9c3439958725b6cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.png
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.mat
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.prefab
+Dependencies: []

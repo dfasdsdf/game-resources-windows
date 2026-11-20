@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1854320963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab44ed240a9f586f8990b7f4c8e4d9aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab44ed240a9f586f8990b7f4c8e4d9aa
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/number/fqzs_number1.atlas.txt
+Dependencies: []

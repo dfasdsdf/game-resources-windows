@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1761396198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72e84fb8447b20dacc975a81dc190d04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 295169abb5d439586f2d77e475c49e5c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 72e84fb8447b20dacc975a81dc190d04
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- "Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/UIAtlas/\u516C\u5171\u8D44\u6E90/common.prefab"
+- "Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/UIAtlas/\u516C\u5171\u8D44\u6E90/common.mat"
+- "Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/UIAtlas/\u516C\u5171\u8D44\u6E90/common.png"
+Dependencies: []
