@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3457206726
+CRC: 123607040
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a177c12a9c5240402874e872ae014afb
+    Hash: 2e851600f1ca78ec9cc93d2d603e86dd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 725450b43642f3302664e60f73f9498d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a177c12a9c5240402874e872ae014afb
+    Hash: 2e851600f1ca78ec9cc93d2d603e86dd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UIRect/AnchorPoint
 Assets:
 - Assets/Legend/FQZS/Asset/GameRes/Prefabs/UI/UI_FQZS_Rule.prefab
-Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^third^ngui^resources^shaders^unlit
-  - transparent colored legacy.kb
+Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2420646088
+CRC: 2740622569
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c7f649cb8961421668b89d088a1748c
+    Hash: 093545151eda5e6b9c3439958725b6cc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 295169abb5d439586f2d77e475c49e5c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c7f649cb8961421668b89d088a1748c
+    Hash: 093545151eda5e6b9c3439958725b6cc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,6 +33,4 @@ Assets:
 - Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.png
 - Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.mat
 - Assets/Legend/FQZS/Asset/GameRes/Dependencies/FishTexture/GameHall/HallAtlas/59HallHead.prefab
-Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^dependencies^third^ngui^resources^shaders^unlit
-  - transparent colored.kb
+Dependencies: []

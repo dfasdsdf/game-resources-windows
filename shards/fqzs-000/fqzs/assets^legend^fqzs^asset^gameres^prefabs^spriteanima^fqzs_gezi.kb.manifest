@@ -32,5 +32,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Legend/FQZS/Asset/GameRes/Prefabs/SpriteAnima/fqzs_gezi.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect_material.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect_skeletondata.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect_material.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fqzs/assets^legend^fqzs^asset^gameres^spineanim^tstxselect^fqzs_tstxselect_skeletondata.kb
