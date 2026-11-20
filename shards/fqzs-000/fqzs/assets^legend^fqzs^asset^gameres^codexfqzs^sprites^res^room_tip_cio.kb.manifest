@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1090227062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aeda12be59c4c985cc97941c2db63c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2aeda12be59c4c985cc97941c2db63c5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/room_tip_cio.png
+Dependencies: []

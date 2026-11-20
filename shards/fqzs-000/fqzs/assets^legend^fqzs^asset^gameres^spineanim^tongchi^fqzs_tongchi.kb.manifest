@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2852752780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 362aacbedb6d46f86694259e937e1d94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 362aacbedb6d46f86694259e937e1d94
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tongchi/fqzs_tongchi.png
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tongchi/fqzs_tongchi.json
+Dependencies: []

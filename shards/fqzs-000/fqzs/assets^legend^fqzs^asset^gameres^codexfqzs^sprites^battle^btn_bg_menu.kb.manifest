@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3580354115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1e962792a73c65264f9d3cca5a4b30a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f1e962792a73c65264f9d3cca5a4b30a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/btn_bg_menu.png
+Dependencies: []

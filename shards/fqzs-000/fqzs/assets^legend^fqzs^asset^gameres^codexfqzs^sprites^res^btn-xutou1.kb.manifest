@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 439199579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e858a6da557428b9c3db2d0c98530530
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e858a6da557428b9c3db2d0c98530530
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-xutou1.png
+Dependencies: []

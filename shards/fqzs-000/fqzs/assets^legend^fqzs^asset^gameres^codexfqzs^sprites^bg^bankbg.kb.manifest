@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 655644971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13c3056aa741309fa417fda78aa2c626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 13c3056aa741309fa417fda78aa2c626
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/bg/bankbg.png
+Dependencies: []

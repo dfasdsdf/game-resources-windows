@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 467494500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6d7537eea61d5e8a5b85120e4eee22e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f6d7537eea61d5e8a5b85120e4eee22e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/shark_clean.png
+Dependencies: []

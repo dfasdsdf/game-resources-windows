@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1644768386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad66b3d529fc72f91c6a1c8957a8367f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ad66b3d529fc72f91c6a1c8957a8367f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/scoreboard.png
+Dependencies: []

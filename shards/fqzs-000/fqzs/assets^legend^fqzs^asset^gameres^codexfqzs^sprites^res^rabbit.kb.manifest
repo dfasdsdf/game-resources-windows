@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2132550121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a3c087442835404a9407abff8e5086d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a3c087442835404a9407abff8e5086d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/rabbit.png
+Dependencies: []

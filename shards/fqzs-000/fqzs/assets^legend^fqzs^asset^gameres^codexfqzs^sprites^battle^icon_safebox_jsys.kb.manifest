@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3125761869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9db8e28a9f77097bcce12ed8fe8790ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9db8e28a9f77097bcce12ed8fe8790ee
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/icon_safebox_jsys.png
+Dependencies: []
