@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1371407457
+CRC: 3249639780
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a30e67bd792b1e6b260d6a826dbd8619
+    Hash: 8f50dd698498b01dbfda49778b078251
   TypeTreeHash:
     serializedVersion: 2
     Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a30e67bd792b1e6b260d6a826dbd8619
+    Hash: 8f50dd698498b01dbfda49778b078251
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -22,6 +22,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Bonus/WinCoin02.mat
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^goldf2.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
-  - transparent colored legacy.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^goldf2.kb

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4033352662
+CRC: 2244326822
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e21932eabf0b17cd142f38d2faa20e2
+    Hash: a068ec1b170b7490709c2b79c394749b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8e21932eabf0b17cd142f38d2faa20e2
+    Hash: a068ec1b170b7490709c2b79c394749b
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,4 +25,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/font_dz.fontsettings
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/font_dz.png
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/font_dz.mat
-Dependencies: []
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number1^font_dz-grouped.kb

@@ -56,10 +56,10 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Prefabs/Help/Help.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_1.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_2.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_3.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_4.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_5.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^ui_fruits_rulebox.kb
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/StandAlone/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^main^incomerank.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_2.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_3.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_4.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^fruit_rule_5.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^ui_fruits_rulebox.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^main^incomerank.kb

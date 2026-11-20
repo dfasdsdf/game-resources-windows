@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2982605973
+CRC: 912646553
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b9a47bbf94220efab37b89132087388
+    Hash: 08020d90e29ff1e4827338199c830179
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0b9a47bbf94220efab37b89132087388
+    Hash: 08020d90e29ff1e4827338199c830179
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,4 +25,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_sf.png
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_sf.mat
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_sf.fontsettings
-Dependencies: []
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^winlose^font_sf-grouped.kb

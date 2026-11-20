@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2979223745
+CRC: 2461124957
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ae9c94e0d4d536df3cf3f7373bdab75
+    Hash: 07eedb47ebc50c711864b988a6ab1f33
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4ae9c94e0d4d536df3cf3f7373bdab75
+    Hash: 07eedb47ebc50c711864b988a6ab1f33
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,4 +25,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/firuts_num.png
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/firuts_num.mat
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/firuts_num.fontsettings
-Dependencies: []
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number1^firuts_num-grouped.kb

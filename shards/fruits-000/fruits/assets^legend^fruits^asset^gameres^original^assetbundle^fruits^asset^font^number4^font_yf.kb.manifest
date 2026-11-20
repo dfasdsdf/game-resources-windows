@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1591398426
+CRC: 1020407502
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9ec8b277376bc3273944d05d4ac1dfbe
+    Hash: 3ebceac0eab5a33ae08fdbd11b84e5a3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9ec8b277376bc3273944d05d4ac1dfbe
+    Hash: 3ebceac0eab5a33ae08fdbd11b84e5a3
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,4 +25,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number4/font_yf.png
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number4/font_yf.fontsettings
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number4/font_yf.mat
-Dependencies: []
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/StandAlone/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number4^font_yf-grouped.kb
