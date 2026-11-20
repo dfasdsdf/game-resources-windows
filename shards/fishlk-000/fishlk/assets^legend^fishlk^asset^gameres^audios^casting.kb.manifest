@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3947669496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 401b89bfb281f2d5e7735a6ad6652f4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 401b89bfb281f2d5e7735a6ad6652f4f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/casting.ogg
+Dependencies: []

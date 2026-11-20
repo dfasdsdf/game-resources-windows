@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3152623056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e6e3ce966286c2d3d3d4247fa1681db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e6e3ce966286c2d3d3d4247fa1681db
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/ws_spin.ogg
+Dependencies: []
