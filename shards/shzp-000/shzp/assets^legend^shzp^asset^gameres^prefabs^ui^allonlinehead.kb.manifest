@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 112023177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79935a40c6e82cd136a9b4dffe1677a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac0cf8975c7a248861ba3b04d8b89cf5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 79935a40c6e82cd136a9b4dffe1677a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bd99dcf43f97d48bb6215c70f0cd40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 783838df60f78413e8131557d6da28fa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Prefabs/UI/allonlinehead.prefab
+Dependencies: []
