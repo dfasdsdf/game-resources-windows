@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1554310253
+CRC: 3544287597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9687f3a3f11277b35749f44731753a26
+    Hash: 9eb0df1bd14bd5bd649246b35be759c9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 12d47efce1fc92d8c20cbd61846c2a95
+    Hash: cb7cda7908a01a98570741f53917573b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9687f3a3f11277b35749f44731753a26
+    Hash: 9eb0df1bd14bd5bd649246b35be759c9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -47,8 +47,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6f632baf9f437294692818355c13055a, type: 3}
@@ -63,8 +61,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: BMSymbol
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
-- AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
 Assets:
 - Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/UI/Anim_fishtotal_7.prefab
 Dependencies: []
