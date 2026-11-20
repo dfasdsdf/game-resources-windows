@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 645901145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cfff450f265b32eba7188f633c3b41b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7cfff450f265b32eba7188f633c3b41b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/rulebg.png
+Dependencies: []

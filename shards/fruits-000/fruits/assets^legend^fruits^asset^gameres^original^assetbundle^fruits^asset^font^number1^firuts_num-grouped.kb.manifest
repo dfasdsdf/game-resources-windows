@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2751072638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90eb44cbb9b85676e6aa037e00522bb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 90eb44cbb9b85676e6aa037e00522bb9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/firuts_num-grouped.mat
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/firuts_num-grouped.png
+Dependencies: []

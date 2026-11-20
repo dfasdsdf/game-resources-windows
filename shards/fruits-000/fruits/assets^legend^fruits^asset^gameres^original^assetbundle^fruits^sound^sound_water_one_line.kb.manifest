@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1426147483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24a7869ec88cbdebd05e8e615f7b64fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24a7869ec88cbdebd05e8e615f7b64fb
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_one_line.mp3
+Dependencies: []

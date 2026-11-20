@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2147571396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15518b7b30cea88e277878b98f321ca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 15518b7b30cea88e277878b98f321ca7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_compare_wait1.mp3
+Dependencies: []

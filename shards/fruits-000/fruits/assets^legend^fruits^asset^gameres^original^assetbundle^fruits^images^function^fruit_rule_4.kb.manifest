@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 867512186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be62a6ff9e4c43398b619395658bc9db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be62a6ff9e4c43398b619395658bc9db
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Function/Fruit_Rule_4.png
+Dependencies: []

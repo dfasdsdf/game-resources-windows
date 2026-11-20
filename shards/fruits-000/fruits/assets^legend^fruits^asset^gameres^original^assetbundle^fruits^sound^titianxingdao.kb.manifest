@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2329282865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51fe21fad31ecea2d1f73020590c2e86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 51fe21fad31ecea2d1f73020590c2e86
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/titianxingdao.mp3
+Dependencies: []

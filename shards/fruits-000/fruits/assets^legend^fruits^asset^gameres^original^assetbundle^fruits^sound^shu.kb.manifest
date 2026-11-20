@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2163392798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a932b9e447e0b1a3778eb4f2db42a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4a932b9e447e0b1a3778eb4f2db42a1f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/shu.mp3
+Dependencies: []

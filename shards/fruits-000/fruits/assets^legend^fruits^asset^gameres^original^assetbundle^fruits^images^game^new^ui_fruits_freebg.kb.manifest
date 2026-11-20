@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 709107200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2713fecbad1cb3cc7f4f3e287fb8c841
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2713fecbad1cb3cc7f4f3e287fb8c841
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/UI_Fruits_FreeBg.png
+Dependencies: []
