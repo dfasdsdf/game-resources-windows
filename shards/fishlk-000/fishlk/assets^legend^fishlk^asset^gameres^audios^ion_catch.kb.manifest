@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1344384901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c29e1c0755dbe1a8639caefb6bd9b892
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c29e1c0755dbe1a8639caefb6bd9b892
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/ion_catch.ogg
+Dependencies: []

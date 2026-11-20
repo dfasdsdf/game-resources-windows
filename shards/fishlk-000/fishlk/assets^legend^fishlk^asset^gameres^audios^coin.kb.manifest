@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2010780842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb1f561a5a00bd15c2f27287a81ccc74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cb1f561a5a00bd15c2f27287a81ccc74
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/coin.ogg
+Dependencies: []

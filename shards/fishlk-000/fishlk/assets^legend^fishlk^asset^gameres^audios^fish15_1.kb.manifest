@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3554028192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56c17fcce625a9657bad6d8c89e5010e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56c17fcce625a9657bad6d8c89e5010e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/fish15_1.ogg
+Dependencies: []
