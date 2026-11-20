@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2171776043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40958eb9cdbe18456daee611e6ab5e44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40958eb9cdbe18456daee611e6ab5e44
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Function/Fruit_Rule_3.png
+Dependencies: []

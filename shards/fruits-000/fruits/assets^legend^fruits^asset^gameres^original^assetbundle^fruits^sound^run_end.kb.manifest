@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3028393863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88d7c9aef2e4c85e0aa8525d0ae8d004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 88d7c9aef2e4c85e0aa8525d0ae8d004
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/run_end.wav
+Dependencies: []

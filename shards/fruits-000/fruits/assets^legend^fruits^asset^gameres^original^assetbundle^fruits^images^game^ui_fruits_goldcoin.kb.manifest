@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1609715132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63df2ae6704cb386917c7f1facd9b0a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63df2ae6704cb386917c7f1facd9b0a7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Goldcoin.png
+Dependencies: []

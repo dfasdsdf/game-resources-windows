@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1188788014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29696931e1d77c0d7603f54ddbb84890
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29696931e1d77c0d7603f54ddbb84890
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/font_dz-grouped.mat
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number1/font_dz-grouped.png
+Dependencies: []

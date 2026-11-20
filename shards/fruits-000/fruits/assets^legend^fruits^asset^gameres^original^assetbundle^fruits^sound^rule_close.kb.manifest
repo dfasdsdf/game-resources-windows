@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1415718291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78ae7a9d34e04b18cfb00e98b603d085
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 78ae7a9d34e04b18cfb00e98b603d085
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/rule_close.wav
+Dependencies: []

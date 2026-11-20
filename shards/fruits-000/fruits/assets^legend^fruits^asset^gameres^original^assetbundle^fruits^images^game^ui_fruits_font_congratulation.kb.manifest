@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2368418342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1392fb66a189766fc4cc05d925989df4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1392fb66a189766fc4cc05d925989df4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Font_Congratulation.png
+Dependencies: []

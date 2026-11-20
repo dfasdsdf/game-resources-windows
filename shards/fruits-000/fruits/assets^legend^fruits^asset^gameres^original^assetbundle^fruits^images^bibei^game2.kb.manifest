@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3947267214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d98323137267a910469f9c4a26bd9edd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d98323137267a910469f9c4a26bd9edd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/BiBei/Game2.png
+Dependencies: []

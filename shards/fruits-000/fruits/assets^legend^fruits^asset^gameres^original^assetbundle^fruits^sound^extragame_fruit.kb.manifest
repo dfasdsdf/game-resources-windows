@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2574949964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9f03f5d9ac664fbcfa343f052387157
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9f03f5d9ac664fbcfa343f052387157
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/extragame_fruit.wav
+Dependencies: []

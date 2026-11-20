@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3929394493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e7f5b7e5baa6281309037c875e4798c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e7f5b7e5baa6281309037c875e4798c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/linchong.mp3
+Dependencies: []

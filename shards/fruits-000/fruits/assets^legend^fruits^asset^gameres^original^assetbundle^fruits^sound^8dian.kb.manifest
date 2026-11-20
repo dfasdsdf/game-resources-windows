@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 529419452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8185e2d508a652a1f76ed8f5f4376a13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8185e2d508a652a1f76ed8f5f4376a13
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/8dian.mp3
+Dependencies: []

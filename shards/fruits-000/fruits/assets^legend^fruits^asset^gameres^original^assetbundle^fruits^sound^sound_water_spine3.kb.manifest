@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 100233247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3000c64969af453ee1bd0835c500eaa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3000c64969af453ee1bd0835c500eaa5
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_spine3.mp3
+Dependencies: []

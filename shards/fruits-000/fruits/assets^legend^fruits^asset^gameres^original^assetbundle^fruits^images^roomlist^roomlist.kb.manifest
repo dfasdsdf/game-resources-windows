@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2337489926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76ed38f0184fef88463888aca746ccf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 76ed38f0184fef88463888aca746ccf3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/RoomList/RoomList.png
+Dependencies: []
