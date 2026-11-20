@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4000649998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ab37f335c17b922b8de8eb431204e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 043263bc3ebab3c48a9aa77659190e68
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ab37f335c17b922b8de8eb431204e88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BMFont
+- AssemblyName: Assembly-CSharp
+  ClassName: BMGlyph
+- AssemblyName: Assembly-CSharp
+  ClassName: BMSymbol
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Eff_GetGoldNum.prefab
+Dependencies: []
